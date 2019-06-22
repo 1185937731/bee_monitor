@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Jun 22 13:55:43 CST 2019
+0.baseType=DIRECTORY
+0.base=F\:\\bee_monitor\\bee_monitor\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
